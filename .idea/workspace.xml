@@ -1,0 +1,750 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="024b6ff6-aa37-4952-8e2f-f5e1291de9bb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/unittest/src/main/java/guru/springframework/unittest/quickstart/ChessBoard.java" beforeDir="false" afterPath="$PROJECT_DIR$/unittest/src/main/java/guru/springframework/unittest/quickstart/ChessBoard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unittest/src/main/java/guru/springframework/unittest/quickstart/Consecutive.java" beforeDir="false" afterPath="$PROJECT_DIR$/unittest/src/main/java/guru/springframework/unittest/quickstart/Consecutive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unittest/src/main/java/guru/springframework/unittest/quickstart/DateTime.java" beforeDir="false" afterPath="$PROJECT_DIR$/unittest/src/main/java/guru/springframework/unittest/quickstart/DateTime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unittest/src/main/java/guru/springframework/unittest/quickstart/ExceptionBasic.java" beforeDir="false" afterPath="$PROJECT_DIR$/unittest/src/main/java/guru/springframework/unittest/quickstart/ExceptionBasic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unittest/src/main/java/guru/springframework/unittest/quickstart/Harry.java" beforeDir="false" afterPath="$PROJECT_DIR$/unittest/src/main/java/guru/springframework/unittest/quickstart/Harry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unittest/src/main/java/guru/springframework/unittest/quickstart/MatAdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/unittest/src/main/java/guru/springframework/unittest/quickstart/MatAdd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unittest/src/main/java/guru/springframework/unittest/quickstart/PRACTICE EXERCISE 1 JAVA/ChessBoard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unittest/src/main/java/guru/springframework/unittest/quickstart/PRACTICE EXERCISE 1 JAVA/StudentaMarks.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unittest/src/main/java/guru/springframework/unittest/quickstart/PalindromePE2.java" beforeDir="false" afterPath="$PROJECT_DIR$/unittest/src/main/java/guru/springframework/unittest/quickstart/PalindromePE2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unittest/src/main/java/guru/springframework/unittest/quickstart/RepeatOccurancePE4.java" beforeDir="false" afterPath="$PROJECT_DIR$/unittest/src/main/java/guru/springframework/unittest/quickstart/RepeatOccurancePE4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unittest/src/main/java/guru/springframework/unittest/quickstart/StringTranspose.java" beforeDir="false" afterPath="$PROJECT_DIR$/unittest/src/main/java/guru/springframework/unittest/quickstart/StringTranspose.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unittest/src/main/java/guru/springframework/unittest/quickstart/StudentMarks.java" beforeDir="false" afterPath="$PROJECT_DIR$/unittest/src/main/java/guru/springframework/unittest/quickstart/StudentMarks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unittest/src/main/java/guru/springframework/unittest/quickstart/TextSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/unittest/src/main/java/guru/springframework/unittest/quickstart/TextSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unittest/src/main/java/guru/springframework/unittest/quickstart/ThreeExceptions.java" beforeDir="false" afterPath="$PROJECT_DIR$/unittest/src/main/java/guru/springframework/unittest/quickstart/ThreeExceptions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unittest/src/main/java/guru/springframework/unittest/quickstart/VowelNation.java" beforeDir="false" afterPath="$PROJECT_DIR$/unittest/src/main/java/guru/springframework/unittest/quickstart/VowelNation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unittest/src/main/test/guru/springframework/unittest/quickstart/ChessBoardTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/unittest/src/main/test/guru/springframework/unittest/quickstart/ChessBoardTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unittest/src/main/test/guru/springframework/unittest/quickstart/ConsecutiveTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/unittest/src/main/test/guru/springframework/unittest/quickstart/ConsecutiveTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unittest/src/main/test/guru/springframework/unittest/quickstart/DateTimeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/unittest/src/main/test/guru/springframework/unittest/quickstart/DateTimeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unittest/src/main/test/guru/springframework/unittest/quickstart/ExceptionBasicTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/unittest/src/main/test/guru/springframework/unittest/quickstart/ExceptionBasicTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unittest/src/main/test/guru/springframework/unittest/quickstart/HarryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/unittest/src/main/test/guru/springframework/unittest/quickstart/HarryTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unittest/src/main/test/guru/springframework/unittest/quickstart/MatAddTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/unittest/src/main/test/guru/springframework/unittest/quickstart/MatAddTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unittest/src/main/test/guru/springframework/unittest/quickstart/MatcherPE4.java" beforeDir="false" afterPath="$PROJECT_DIR$/unittest/src/main/test/guru/springframework/unittest/quickstart/MatcherPE4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unittest/src/main/test/guru/springframework/unittest/quickstart/MatcherPE4Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/unittest/src/main/test/guru/springframework/unittest/quickstart/MatcherPE4Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unittest/src/main/test/guru/springframework/unittest/quickstart/PalindromePE2Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/unittest/src/main/test/guru/springframework/unittest/quickstart/PalindromePE2Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unittest/src/main/test/guru/springframework/unittest/quickstart/RepeatOccurancePE4Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/unittest/src/main/test/guru/springframework/unittest/quickstart/RepeatOccurancePE4Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unittest/src/main/test/guru/springframework/unittest/quickstart/ReplaceCharPE4.java" beforeDir="false" afterPath="$PROJECT_DIR$/unittest/src/main/test/guru/springframework/unittest/quickstart/ReplaceCharPE4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unittest/src/main/test/guru/springframework/unittest/quickstart/ReplaceCharPE4Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/unittest/src/main/test/guru/springframework/unittest/quickstart/ReplaceCharPE4Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unittest/src/main/test/guru/springframework/unittest/quickstart/StringTransposeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/unittest/src/main/test/guru/springframework/unittest/quickstart/StringTransposeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unittest/src/main/test/guru/springframework/unittest/quickstart/StudentMarksTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/unittest/src/main/test/guru/springframework/unittest/quickstart/StudentMarksTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unittest/src/main/test/guru/springframework/unittest/quickstart/TextSortTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/unittest/src/main/test/guru/springframework/unittest/quickstart/TextSortTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unittest/src/main/test/guru/springframework/unittest/quickstart/ThreeExceptionsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/unittest/src/main/test/guru/springframework/unittest/quickstart/ThreeExceptionsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unittest/src/main/test/guru/springframework/unittest/quickstart/VowelNationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/unittest/src/main/test/guru/springframework/unittest/quickstart/VowelNationTest.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1942294893">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="45" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="45" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="8080" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="8080" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/unittest/src/main/java/guru/springframework/unittest/quickstart/StringTranspose.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/unittest/src/main/java/guru/springframework/unittest/quickstart/TextSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/unittest/src/main/test/guru/springframework/unittest/quickstart/TextSortTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="12" column="85" selection-start-line="12" selection-start-column="85" selection-end-line="12" selection-end-column="85" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/unittest/src/main/test/guru/springframework/unittest/quickstart/MatcherPE4.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#347#355#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/unittest/src/main/test/guru/springframework/unittest/quickstart/MatcherPE4Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="15" column="59" lean-forward="true" selection-start-line="15" selection-start-column="59" selection-end-line="15" selection-end-column="59" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/unittest/src/main/test/guru/springframework/unittest/quickstart/PalindromePE2Test.java" />
+        <option value="$PROJECT_DIR$/unittest/src/main/java/guru/springframework/unittest/quickstart/PalindromePE2.java" />
+        <option value="$PROJECT_DIR$/unittest/src/main/java/guru/springframework/unittest/quickstart/PowerOf4.java" />
+        <option value="$PROJECT_DIR$/unittest/src/main/test/guru/springframework/unittest/quickstart/PowerOf4Test.java" />
+        <option value="$PROJECT_DIR$/unittest/src/main/java/guru/springframework/unittest/quickstart/PRACTICE EXERCISE 1 JAVA/StudentaMarks.java" />
+        <option value="$PROJECT_DIR$/unittest/src/main/java/guru/springframework/unittest/quickstart/StudentaMarks.java" />
+        <option value="$PROJECT_DIR$/unittest/src/main/java/guru/springframework/unittest/quickstart/StudentMarks.java" />
+        <option value="$PROJECT_DIR$/unittest/src/main/test/guru/springframework/unittest/quickstart/StudentMarksTest.java" />
+        <option value="$PROJECT_DIR$/unittest/src/main/test/guru/springframework/unittest/quickstart/MatAddTest.java" />
+        <option value="$PROJECT_DIR$/unittest/src/main/java/guru/springframework/unittest/quickstart/PRACTICE EXERCISE 1 JAVA/Date&amp;Time.java" />
+        <option value="$PROJECT_DIR$/unittest/src/main/java/guru/springframework/unittest/quickstart/MatAdd.java" />
+        <option value="$PROJECT_DIR$/unittest/src/main/test/guru/springframework/unittest/quickstart/DateTimeTest.java" />
+        <option value="$PROJECT_DIR$/unittest/src/main/java/guru/springframework/unittest/quickstart/DateTime.java" />
+        <option value="$PROJECT_DIR$/unittest/src/main/java/guru/springframework/unittest/quickstart/ChessBoard.java" />
+        <option value="$PROJECT_DIR$/unittest/src/main/test/guru/springframework/unittest/quickstart/ChessBoardTest.java" />
+        <option value="$PROJECT_DIR$/unittest/src/main/java/guru/springframework/unittest/quickstart/ExceptionBasic.java" />
+        <option value="$PROJECT_DIR$/unittest/src/main/test/guru/springframework/unittest/quickstart/ExceptionBasicTest.java" />
+        <option value="$PROJECT_DIR$/unittest/src/main/test/guru/springframework/unittest/quickstart/ThreeExceptionsTest.java" />
+        <option value="$PROJECT_DIR$/unittest/src/main/java/guru/springframework/unittest/quickstart/ThreeExceptions.java" />
+        <option value="$PROJECT_DIR$/unittest/src/main/java/guru/springframework/unittest/quickstart/Consecutive.java" />
+        <option value="$PROJECT_DIR$/unittest/src/main/test/guru/springframework/unittest/quickstart/ConsecutiveTest.java" />
+        <option value="$PROJECT_DIR$/unittest/src/main/java/guru/springframework/unittest/quickstart/VowelNation.java" />
+        <option value="$PROJECT_DIR$/unittest/src/main/test/guru/springframework/unittest/quickstart/VowelNationTest.java" />
+        <option value="$PROJECT_DIR$/unittest/src/main/test/guru/springframework/unittest/quickstart/RepeatOccurancePE4Test.java" />
+        <option value="$PROJECT_DIR$/unittest/src/main/java/guru/springframework/unittest/quickstart/RepeatOccurancePE4.java" />
+        <option value="$PROJECT_DIR$/unittest/src/main/test/guru/springframework/unittest/quickstart/ReplaceCharPE4Test.java" />
+        <option value="$PROJECT_DIR$/unittest/src/main/test/guru/springframework/unittest/quickstart/ReplaceCharPE4.java" />
+        <option value="$PROJECT_DIR$/unittest/src/main/java/guru/springframework/unittest/quickstart/StringTranspose.java" />
+        <option value="$PROJECT_DIR$/unittest/src/main/test/guru/springframework/unittest/quickstart/StringTransposeTest.java" />
+        <option value="$PROJECT_DIR$/unittest/src/main/test/guru/springframework/unittest/quickstart/HarryTest.java" />
+        <option value="$PROJECT_DIR$/unittest/src/main/java/guru/springframework/unittest/quickstart/Harry.java" />
+        <option value="$PROJECT_DIR$/unittest/src/main/test/guru/springframework/unittest/quickstart/MatcherPE4.java" />
+        <option value="$PROJECT_DIR$/unittest/src/main/test/guru/springframework/unittest/quickstart/MatcherPE4Test.java" />
+        <option value="$PROJECT_DIR$/unittest/src/main/java/guru/springframework/unittest/quickstart/TextSort.java" />
+        <option value="$PROJECT_DIR$/unittest/src/main/test/guru/springframework/unittest/quickstart/TextSortTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="118" />
+    <option name="y" value="136" />
+    <option name="width" value="1299" />
+    <option name="height" value="648" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="TEST EXERCISES" type="b2602c69:ProjectViewProjectNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TEST EXERCISES" type="b2602c69:ProjectViewProjectNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TEST EXERCISES" type="b2602c69:ProjectViewProjectNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="quickstart" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TEST EXERCISES" type="b2602c69:ProjectViewProjectNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TEST EXERCISES" type="b2602c69:ProjectViewProjectNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="quickstart" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537340248702" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="guru.springframework.unittest.quickstart" />
+      <recent name="guru.springframework.unittest.quickstart.PRACTICE EXERCISE 1 JAVA" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.TextSortTest">
+    <configuration name="HarryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="guru.springframework.unittest.quickstart.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="guru.springframework.unittest.quickstart" />
+      <option name="MAIN_CLASS_NAME" value="guru.springframework.unittest.quickstart.HarryTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MatcherPE4Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="guru.springframework.unittest.quickstart.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="guru.springframework.unittest.quickstart" />
+      <option name="MAIN_CLASS_NAME" value="guru.springframework.unittest.quickstart.MatcherPE4Test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReplaceCharPE4Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="guru.springframework.unittest.quickstart.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="guru.springframework.unittest.quickstart" />
+      <option name="MAIN_CLASS_NAME" value="guru.springframework.unittest.quickstart.ReplaceCharPE4Test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringTransposeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="guru.springframework.unittest.quickstart.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="guru.springframework.unittest.quickstart" />
+      <option name="MAIN_CLASS_NAME" value="guru.springframework.unittest.quickstart.StringTransposeTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TextSortTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="guru.springframework.unittest.quickstart.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="guru.springframework.unittest.quickstart" />
+      <option name="MAIN_CLASS_NAME" value="guru.springframework.unittest.quickstart.TextSortTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.ReplaceCharPE4Test" />
+      <item itemvalue="JUnit.StringTransposeTest" />
+      <item itemvalue="JUnit.HarryTest" />
+      <item itemvalue="JUnit.MatcherPE4Test" />
+      <item itemvalue="JUnit.TextSortTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TextSortTest" />
+        <item itemvalue="JUnit.MatcherPE4Test" />
+        <item itemvalue="JUnit.HarryTest" />
+        <item itemvalue="JUnit.StringTransposeTest" />
+        <item itemvalue="JUnit.ReplaceCharPE4Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="024b6ff6-aa37-4952-8e2f-f5e1291de9bb" name="Default Changelist" comment="" />
+      <created>1537127944191</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1537127944191</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="MatcherPE4Test - 2018.09.19 at 11h 56m 32s.xml">
+      <configuration name="MatcherPE4Test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MatcherPE4Test - 2018.09.19 at 11h 56m 54s.xml">
+      <configuration name="MatcherPE4Test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MatcherPE4Test - 2018.09.19 at 11h 57m 52s.xml">
+      <configuration name="MatcherPE4Test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MatcherPE4Test - 2018.09.19 at 11h 59m 04s.xml">
+      <configuration name="MatcherPE4Test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MatcherPE4Test - 2018.09.19 at 11h 59m 35s.xml">
+      <configuration name="MatcherPE4Test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MatcherPE4Test - 2018.09.19 at 12h 00m 10s.xml">
+      <configuration name="MatcherPE4Test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MatcherPE4Test - 2018.09.19 at 12h 00m 28s.xml">
+      <configuration name="MatcherPE4Test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TextSortTest - 2018.09.19 at 12h 18m 20s.xml">
+      <configuration name="TextSortTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TextSortTest - 2018.09.19 at 12h 20m 06s.xml">
+      <configuration name="TextSortTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TextSortTest - 2018.09.19 at 12h 20m 21s.xml">
+      <configuration name="TextSortTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="65" y="-4" width="1301" height="772" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2613546" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32866043" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32866043" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25338647" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32866043" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32866043" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/unittest/src/main/test/guru/springframework/unittest/quickstart/StringReverseTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="10" selection-start-line="10" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unittest/src/main/java/guru/springframework/unittest/quickstart/PalindromePE2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unittest/src/main/test/guru/springframework/unittest/quickstart/PalindromePE2Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="4" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unittest/src/main/test/guru/springframework/unittest/quickstart/PowerOf4Test.java" />
+    <entry file="file://$PROJECT_DIR$/unittest/src/main/java/guru/springframework/unittest/quickstart/palindrome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unittest/src/main/java/guru/springframework/unittest/quickstart/PRACTICE EXERCISE 1 JAVA/StudentaMarks.java" />
+    <entry file="file://$PROJECT_DIR$/unittest/src/main/java/guru/springframework/unittest/quickstart/PowerOf4.java" />
+    <entry file="file://$PROJECT_DIR$/unittest/src/main/java/guru/springframework/unittest/quickstart/PRACTICE EXERCISE 1 JAVA/Date_Time.java" />
+    <entry file="file://$PROJECT_DIR$/unittest/src/main/java/guru/springframework/unittest/quickstart/StudentMarks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unittest/src/main/test/guru/springframework/unittest/quickstart/StudentMarksTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="4" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unittest/src/main/test/guru/springframework/unittest/quickstart/MatAddTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="14" column="43" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unittest/src/main/test/guru/springframework/unittest/quickstart/DateTimeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="4" column="33" lean-forward="true" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unittest/src/main/java/guru/springframework/unittest/quickstart/PRACTICE EXERCISE 1 JAVA/ChessBoard.java" />
+    <entry file="file://$PROJECT_DIR$/unittest/src/main/java/guru/springframework/unittest/quickstart/MatAdd.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="17" column="37" lean-forward="true" selection-start-line="17" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unittest/src/main/test/guru/springframework/unittest/quickstart/ChessBoardTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unittest/src/main/test/guru/springframework/unittest/quickstart/ExceptionBasicTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-8-oracle/src.zip!/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="541" selection-start-line="541" selection-end-line="541" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unittest/src/main/java/guru/springframework/unittest/quickstart/ChessBoard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unittest/src/main/java/guru/springframework/unittest/quickstart/DateTime.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="42" selection-start-line="27" selection-start-column="42" selection-end-line="27" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#401#409#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unittest/src/main/test/guru/springframework/unittest/quickstart/ThreeExceptionsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="33" column="5" lean-forward="true" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unittest/src/main/test/guru/springframework/unittest/quickstart/ConsecutiveTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unittest/src/main/java/guru/springframework/unittest/quickstart/Consecutive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="47" selection-start-line="14" selection-start-column="47" selection-end-line="14" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unittest/src/main/java/guru/springframework/unittest/quickstart/ThreeExceptions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="19" lean-forward="true" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unittest/src/main/java/guru/springframework/unittest/quickstart/ExceptionBasic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="7" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unittest/src/main/test/guru/springframework/unittest/quickstart/VowelNationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unittest/src/main/java/guru/springframework/unittest/quickstart/VowelNation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="8" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unittest/src/main/test/guru/springframework/unittest/quickstart/ReplaceCharPE4Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="10" column="35" lean-forward="true" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unittest/src/main/test/guru/springframework/unittest/quickstart/ReplaceCharPE4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unittest/src/main/test/guru/springframework/unittest/quickstart/StringTransposeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unittest/src/main/java/guru/springframework/unittest/quickstart/RepeatOccurancePE4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="17" lean-forward="true" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unittest/src/main/test/guru/springframework/unittest/quickstart/RepeatOccurancePE4Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unittest/src/main/java/guru/springframework/unittest/quickstart/Harry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="43" lean-forward="true" selection-start-line="12" selection-start-column="43" selection-end-line="12" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unittest/src/main/test/guru/springframework/unittest/quickstart/HarryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="11" column="27" lean-forward="true" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unittest/src/main/java/guru/springframework/unittest/quickstart/StringTranspose.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unittest/src/main/test/guru/springframework/unittest/quickstart/MatcherPE4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#347#355#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unittest/src/main/test/guru/springframework/unittest/quickstart/MatcherPE4Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="15" column="59" lean-forward="true" selection-start-line="15" selection-start-column="59" selection-end-line="15" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unittest/src/main/java/guru/springframework/unittest/quickstart/TextSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unittest/src/main/test/guru/springframework/unittest/quickstart/TextSortTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="12" column="85" selection-start-line="12" selection-start-column="85" selection-end-line="12" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
